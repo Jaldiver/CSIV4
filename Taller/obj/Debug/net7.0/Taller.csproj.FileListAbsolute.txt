@@ -1,0 +1,14 @@
+D:\C#\Taller\bin\Debug\net7.0\Taller.exe
+D:\C#\Taller\bin\Debug\net7.0\Taller.deps.json
+D:\C#\Taller\bin\Debug\net7.0\Taller.runtimeconfig.json
+D:\C#\Taller\bin\Debug\net7.0\Taller.dll
+D:\C#\Taller\bin\Debug\net7.0\Taller.pdb
+D:\C#\Taller\obj\Debug\net7.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Taller\obj\Debug\net7.0\Taller.AssemblyInfoInputs.cache
+D:\C#\Taller\obj\Debug\net7.0\Taller.AssemblyInfo.cs
+D:\C#\Taller\obj\Debug\net7.0\Taller.csproj.CoreCompileInputs.cache
+D:\C#\Taller\obj\Debug\net7.0\Taller.dll
+D:\C#\Taller\obj\Debug\net7.0\refint\Taller.dll
+D:\C#\Taller\obj\Debug\net7.0\Taller.pdb
+D:\C#\Taller\obj\Debug\net7.0\Taller.genruntimeconfig.cache
+D:\C#\Taller\obj\Debug\net7.0\ref\Taller.dll
