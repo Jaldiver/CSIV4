@@ -1,0 +1,14 @@
+C:\Users\Deyvy CR\Desktop\Basket\bin\Debug\net8.0\Basket.exe
+C:\Users\Deyvy CR\Desktop\Basket\bin\Debug\net8.0\Basket.deps.json
+C:\Users\Deyvy CR\Desktop\Basket\bin\Debug\net8.0\Basket.runtimeconfig.json
+C:\Users\Deyvy CR\Desktop\Basket\bin\Debug\net8.0\Basket.dll
+C:\Users\Deyvy CR\Desktop\Basket\bin\Debug\net8.0\Basket.pdb
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.AssemblyInfoInputs.cache
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.AssemblyInfo.cs
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.csproj.CoreCompileInputs.cache
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.dll
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\refint\Basket.dll
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.pdb
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\Basket.genruntimeconfig.cache
+C:\Users\Deyvy CR\Desktop\Basket\obj\Debug\net8.0\ref\Basket.dll
