@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\bin\Debug\net7.0\HolaMundo.exe
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\bin\Debug\net7.0\HolaMundo.deps.json
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\bin\Debug\net7.0\HolaMundo.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\bin\Debug\net7.0\HolaMundo.dll
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\bin\Debug\net7.0\HolaMundo.pdb
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.dll
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\refint\HolaMundo.dll
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.pdb
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\HolaMundo.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\HolaMundo\obj\Debug\net7.0\ref\HolaMundo.dll
