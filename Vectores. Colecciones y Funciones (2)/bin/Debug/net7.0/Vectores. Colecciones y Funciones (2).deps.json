@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Vectores. Colecciones y Funciones (2)/1.0.0": {
+        "runtime": {
+          "Vectores. Colecciones y Funciones (2).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vectores. Colecciones y Funciones (2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

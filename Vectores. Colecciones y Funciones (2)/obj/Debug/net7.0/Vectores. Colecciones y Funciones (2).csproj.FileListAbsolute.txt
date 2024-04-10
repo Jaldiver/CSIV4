@@ -1,0 +1,14 @@
+D:\C#\Vectores. Colecciones y Funciones (2)\bin\Debug\net7.0\Vectores. Colecciones y Funciones (2).exe
+D:\C#\Vectores. Colecciones y Funciones (2)\bin\Debug\net7.0\Vectores. Colecciones y Funciones (2).deps.json
+D:\C#\Vectores. Colecciones y Funciones (2)\bin\Debug\net7.0\Vectores. Colecciones y Funciones (2).runtimeconfig.json
+D:\C#\Vectores. Colecciones y Funciones (2)\bin\Debug\net7.0\Vectores. Colecciones y Funciones (2).dll
+D:\C#\Vectores. Colecciones y Funciones (2)\bin\Debug\net7.0\Vectores. Colecciones y Funciones (2).pdb
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).AssemblyInfoInputs.cache
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).AssemblyInfo.cs
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).csproj.CoreCompileInputs.cache
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).dll
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\refint\Vectores. Colecciones y Funciones (2).dll
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).pdb
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\Vectores. Colecciones y Funciones (2).genruntimeconfig.cache
+D:\C#\Vectores. Colecciones y Funciones (2)\obj\Debug\net7.0\ref\Vectores. Colecciones y Funciones (2).dll
