@@ -1,0 +1,14 @@
+D:\C#\Oper, Cond y Ciclos\bin\Debug\net7.0\Oper, Cond y Ciclos.exe
+D:\C#\Oper, Cond y Ciclos\bin\Debug\net7.0\Oper, Cond y Ciclos.deps.json
+D:\C#\Oper, Cond y Ciclos\bin\Debug\net7.0\Oper, Cond y Ciclos.runtimeconfig.json
+D:\C#\Oper, Cond y Ciclos\bin\Debug\net7.0\Oper, Cond y Ciclos.dll
+D:\C#\Oper, Cond y Ciclos\bin\Debug\net7.0\Oper, Cond y Ciclos.pdb
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.AssemblyInfoInputs.cache
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.AssemblyInfo.cs
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.csproj.CoreCompileInputs.cache
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.dll
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\refint\Oper, Cond y Ciclos.dll
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.pdb
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\Oper, Cond y Ciclos.genruntimeconfig.cache
+D:\C#\Oper, Cond y Ciclos\obj\Debug\net7.0\ref\Oper, Cond y Ciclos.dll
