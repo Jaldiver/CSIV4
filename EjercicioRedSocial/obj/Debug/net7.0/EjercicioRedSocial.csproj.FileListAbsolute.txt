@@ -1,0 +1,14 @@
+D:\C#\EjercicioRedSocial\bin\Debug\net7.0\EjercicioRedSocial.exe
+D:\C#\EjercicioRedSocial\bin\Debug\net7.0\EjercicioRedSocial.deps.json
+D:\C#\EjercicioRedSocial\bin\Debug\net7.0\EjercicioRedSocial.runtimeconfig.json
+D:\C#\EjercicioRedSocial\bin\Debug\net7.0\EjercicioRedSocial.dll
+D:\C#\EjercicioRedSocial\bin\Debug\net7.0\EjercicioRedSocial.pdb
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.AssemblyInfoInputs.cache
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.AssemblyInfo.cs
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.csproj.CoreCompileInputs.cache
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.dll
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\refint\EjercicioRedSocial.dll
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.pdb
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\EjercicioRedSocial.genruntimeconfig.cache
+D:\C#\EjercicioRedSocial\obj\Debug\net7.0\ref\EjercicioRedSocial.dll
