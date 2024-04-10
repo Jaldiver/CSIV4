@@ -1,0 +1,14 @@
+D:\C#\Masa\obj\Debug\net7.0\Masa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Masa\obj\Debug\net7.0\Masa.AssemblyInfoInputs.cache
+D:\C#\Masa\obj\Debug\net7.0\Masa.AssemblyInfo.cs
+D:\C#\Masa\obj\Debug\net7.0\Masa.csproj.CoreCompileInputs.cache
+D:\C#\Masa\bin\Debug\net7.0\Masa.exe
+D:\C#\Masa\bin\Debug\net7.0\Masa.deps.json
+D:\C#\Masa\bin\Debug\net7.0\Masa.runtimeconfig.json
+D:\C#\Masa\bin\Debug\net7.0\Masa.dll
+D:\C#\Masa\bin\Debug\net7.0\Masa.pdb
+D:\C#\Masa\obj\Debug\net7.0\Masa.dll
+D:\C#\Masa\obj\Debug\net7.0\refint\Masa.dll
+D:\C#\Masa\obj\Debug\net7.0\Masa.pdb
+D:\C#\Masa\obj\Debug\net7.0\Masa.genruntimeconfig.cache
+D:\C#\Masa\obj\Debug\net7.0\ref\Masa.dll
