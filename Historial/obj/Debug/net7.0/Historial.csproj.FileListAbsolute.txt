@@ -1,0 +1,14 @@
+D:\C#\Historial\bin\Debug\net7.0\Historial.exe
+D:\C#\Historial\bin\Debug\net7.0\Historial.deps.json
+D:\C#\Historial\bin\Debug\net7.0\Historial.runtimeconfig.json
+D:\C#\Historial\bin\Debug\net7.0\Historial.dll
+D:\C#\Historial\bin\Debug\net7.0\Historial.pdb
+D:\C#\Historial\obj\Debug\net7.0\Historial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Historial\obj\Debug\net7.0\Historial.AssemblyInfoInputs.cache
+D:\C#\Historial\obj\Debug\net7.0\Historial.AssemblyInfo.cs
+D:\C#\Historial\obj\Debug\net7.0\Historial.csproj.CoreCompileInputs.cache
+D:\C#\Historial\obj\Debug\net7.0\Historial.dll
+D:\C#\Historial\obj\Debug\net7.0\refint\Historial.dll
+D:\C#\Historial\obj\Debug\net7.0\Historial.pdb
+D:\C#\Historial\obj\Debug\net7.0\Historial.genruntimeconfig.cache
+D:\C#\Historial\obj\Debug\net7.0\ref\Historial.dll
