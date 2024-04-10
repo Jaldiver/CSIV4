@@ -1,0 +1,14 @@
+D:\C#\Oper y cond\bin\Debug\net7.0\Oper y cond.exe
+D:\C#\Oper y cond\bin\Debug\net7.0\Oper y cond.deps.json
+D:\C#\Oper y cond\bin\Debug\net7.0\Oper y cond.runtimeconfig.json
+D:\C#\Oper y cond\bin\Debug\net7.0\Oper y cond.dll
+D:\C#\Oper y cond\bin\Debug\net7.0\Oper y cond.pdb
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.AssemblyInfoInputs.cache
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.AssemblyInfo.cs
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.csproj.CoreCompileInputs.cache
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.dll
+D:\C#\Oper y cond\obj\Debug\net7.0\refint\Oper y cond.dll
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.pdb
+D:\C#\Oper y cond\obj\Debug\net7.0\Oper y cond.genruntimeconfig.cache
+D:\C#\Oper y cond\obj\Debug\net7.0\ref\Oper y cond.dll
